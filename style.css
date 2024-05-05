@@ -249,7 +249,7 @@ margin-bottom:16px;
     border-radius: 5px;
   }
 
-  .bottons-tablet,
+  .buttons-tablet,
   .info-section__text-two--hidden,
   .desktop-buttons {
     display: none;
@@ -382,7 +382,7 @@ margin-bottom:16px;
     border-radius: 5px;
   }
 
-  .bottons-tablet {
+  .buttons-tablet {
     display: flex;
     gap: 16px;
   }
