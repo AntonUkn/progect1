@@ -1,6 +1,6 @@
 @font-face {
   font-family: "TTLakes";
-  src: url("./fonts/TTLakes-Regular.woff2"), url("./fonts/TTLakes-Regular.woff");
+  src: url("fonts/TTLakes-Regular.woff2"), url("fonts/TTLakes-Regular.woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "TTLakes";
-  src: url("./fonts/TTLakes-Medium.woff2"), url("./fonts/TTLakes-Medium.woff");
+  src: url("fonts/TTLakes-Medium.woff2"), url("fonts/TTLakes-Medium.woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "TTLakes";
-  src: url("./fonts/TTLakes-Bold.woff2"), url("./fonts/TTLakes-Bold.woff");
+  src: url("fonts/TTLakes-Bold.woff2"), url("fonts/TTLakes-Bold.woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -66,49 +66,49 @@ body {
 }
 
 .icon-burger {
-  background-image: url(./image/icon-BURGER.svg);
+  background-image: url(image/icon-BURGER.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-check {
-  background-image: url(./image/icon-check.svg);
+  background-image: url(image/icon-check.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-search {
-  background-image: url(./image/icon-search.svg);
+  background-image: url(image/icon-search.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-phone {
-  background-image: url(./image/icon-phone.svg);
+  background-image: url(image/icon-phone.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-chat {
-  background-image: url(./image/icon-chat.svg);
+  background-image: url(image/icon-chat.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-profile {
-  background-image: url(./image/icon-profile.svg);
+  background-image: url(image/icon-profile.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-hide {
-  background-image: url(./image/icon-hide.svg);
+  background-image: url(image/icon-hide.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .icon-find {
-  background-image: url(./image/icon-find.svg);
+  background-image: url(image/icon-find.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -218,7 +218,7 @@ body {
     position: relative;
     width: 24px;
     height: 24px;
-    background-image: url(./image/text-decor.png);
+    background-image: url(image/text-decor.png);
     vertical-align: top;
   }
 
@@ -353,7 +353,7 @@ body {
     position: relative;
     width: 24px;
     height: 24px;
-    background-image: url(./image/text-decor.png);
+    background-image: url(image/text-decor.png);
     vertical-align: top;
   }
 
@@ -526,7 +526,7 @@ body {
     position: relative;
     width: 24px;
     height: 24px;
-    background-image: url(./image/text-decor.png);
+    background-image: url(image/text-decor.png);
     vertical-align: top;
   }
 
