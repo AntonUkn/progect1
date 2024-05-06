@@ -277,7 +277,7 @@ body {
 
 /* .............Планшет............... */
 
-@media screen and (min-width: 769px) and (max-width: 1119px) {
+@media screen and (min-width: 769px) and (max-width: 1120px) {
   .container {
     display: flex;
     flex-direction: column;
